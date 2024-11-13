@@ -1,8 +1,30 @@
-# React + Vite
+# Pixel-Perfect Responsive Modern Bank Landing Page with React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Screenshot
 
-Currently, two official plugins are available:
+![Desktop View](./src/assets/hoobank_landing_page-min.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Built With
+
+- React.js
+- Tailwind CSS
+- Framer Motion
+- Modern UI Design with Figma
+
+## Features
+
+- Intuitive User-facing Interface with High Conversion rate
+- Responive on all screen sizes
+- Modern Design Pattern
+- Seamless Animation
+- Compatibility on all modern browsers
+
+## Links
+
+- Live Site URL: [Vercel](https://modern-bank-landing-page-coral.vercel.app/)
+
+## Author
+
+- LinkedIn - [@JeremiahChinwe](https://www.linkedin.com/in/jeremiah-chinwe-057180268)
+- Twitter - [@jeremiahchinwe](https://www.twitter.com/jeremiahchinwe)
+
